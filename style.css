@@ -1,6 +1,13 @@
+.container{
+    margin-bottom: 75px;
+}
 .orange-bg{
     background-color: rgb(246, 243, 219);
+    border-radius: 12px;
 }
 .carousel-item{
     padding: 20px 40px;
+}
+.border{
+    border-radius: 10px;
 }
